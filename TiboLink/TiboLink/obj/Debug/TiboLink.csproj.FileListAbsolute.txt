@@ -1,0 +1,15 @@
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\bin\Debug\siteA.txt
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\bin\Debug\siteB.txt
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\bin\Debug\TiboLink.exe.config
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\bin\Debug\TiboLink.exe
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\bin\Debug\TiboLink.pdb
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.csprojAssemblyReference.cache
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.frmLink.resources
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.Properties.Resources.resources
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.csproj.GenerateResource.cache
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.csproj.CoreCompileInputs.cache
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.csproj.CopyComplete
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.exe
+C:\Users\Meo Rung\Desktop\TiboLink\TiboLink\TiboLink\obj\Debug\TiboLink.pdb
